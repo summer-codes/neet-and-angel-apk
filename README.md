@@ -50,7 +50,7 @@ Neet and Angel APK functions as an interactive visual novel where players assume
 3. Enable **Install Unknown Apps** to allow third-party installations.
 
 ### Step 2: Download the APK
-1. Visit a trusted website or the [ApkModBucket](https://apkmodbucket.com/) to download the APK file.
+1. Visit a trusted website or the [Luso Gamer](https://lusogamer.com/) to download the APK file.
 2. Verify the file’s authenticity by scanning it with antivirus software.
 
 ### Step 3: Install the Game
